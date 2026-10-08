@@ -23,12 +23,12 @@
 
 <h3>Installation & Setup</h3>
 <pre><code># Clone the repository
-git clone https://github.com/yourusername/lorenz-attractor.git
-cd lorenz-attractor
+git clone https://github.com/yourusername/Lorentz_attractor.git
+
 
 # Create and activate a virtual environment
-python3 -m venv hdd_env
-source hdd_env/bin/activate
+python3 -m venv venv
+source vnenv/bin/activate
 
 # Install the required scientific libraries
 pip install numpy scipy matplotlib
@@ -43,6 +43,6 @@ pip install numpy scipy matplotlib
 
 <h2>👨‍💻 Author</h2>
 <p>
-  <strong>Avarn Sharma</strong><br>
+  <strong>Avarn</strong><br>
   <em>Computational Physics</em>
 </p>
